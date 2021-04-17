@@ -5,7 +5,7 @@ module Experiments.Types (module Experiments.Types ) where
 
 import           Data.Aeson
 import           Data.Version
-import           Development.Shake.Classes
+import           Development.IDE.Graph.Classes
 import           GHC.Generics
 import           Numeric.Natural
 import           System.FilePath           (isPathSeparator)
